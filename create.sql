@@ -1,3 +1,6 @@
+
+-- Author LuJunHong 
+
 drop database if exists ljh;
 create database ljh;
 use ljh;
